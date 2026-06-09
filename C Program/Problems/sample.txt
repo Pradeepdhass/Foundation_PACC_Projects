@@ -1,4 +1,0 @@
-Hello World!
-Welcome to C Programming .
-This line and below line is appended.
- Today's concept is File Handling.  
